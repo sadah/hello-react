@@ -30,6 +30,9 @@ npm install
 
 ## Run
 
+run http://localhost:3000/
+
 ```
 gulp
 ```
+
